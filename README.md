@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **myatthazinaung@orientwebs.com**
 
-![Myat Thazin Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyatThazin-Aung9&show_icons=true&theme=tokyonight)
+![Myat Thazin Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyatThazinAung&show_icons=true&theme=tokyonight)
 
 
 <h3 align="left">Languages and Tools:</h3>
